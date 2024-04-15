@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Laba11.props" />
+</Project>

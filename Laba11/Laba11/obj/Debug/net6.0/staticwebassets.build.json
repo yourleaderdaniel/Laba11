@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "M3v0sKPptcCY3fVFky2txuX9ChbcVb1bFNjgDpGFQSM=",
+  "Source": "Laba11",
+  "BasePath": "_content/Laba11",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Laba11\\wwwroot",
+      "Source": "Laba11",
+      "ContentRoot": "C:\\Users\\sexyg\\source\\repos\\Laba11\\Laba11\\wwwroot\\",
+      "BasePath": "_content/Laba11",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
